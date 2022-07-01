@@ -1,0 +1,25 @@
+{
+  "result":[
+      {
+           "uri":"https://www.pexels.com/photo/group-of-people-standing-in-store-1020370/",
+           "content":"Clothes",
+           "id":1
+      },
+      {
+          "uri":"https://www.pexels.com/photo/photo-of-sneakers-on-white-background-2529148/",
+          "content":"Footwear",
+          "id":2
+            
+      },
+      {
+          "uri":"https://www.pexels.com/photo/black-framed-eyeglasses-on-seven-collective-books-1018134/",
+          "content":"Stationary",
+          "id":3
+      },
+      {
+          "uri":"https://www.pexels.com/photo/set-of-cosmetic-products-on-marble-shelf-in-modern-room-4202326/",
+          "content":"Daily Use",
+          "id":4
+      }
+  ]
+}
